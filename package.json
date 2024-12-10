@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/react": "19.0.1",
-    "@types/react-dom": "19.0.1",
+    "@types/react-dom": "19.0.2",
     "@vercel/style-guide": "^6.0.0",
     "dotenv": "^16.4.7",
     "eslint": "^9.16.0",
