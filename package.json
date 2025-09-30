@@ -32,7 +32,7 @@
     "@types/react": "19.1.15",
     "@types/react-dom": "19.1.9",
     "@vercel/style-guide": "^6.0.0",
-    "dotenv": "^17.2.2",
+    "dotenv": "^17.2.3",
     "eslint": "^9.36.0",
     "eslint-config-next": "^15.5.4",
     "eslint-config-prettier": "10.1.8",
