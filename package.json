@@ -20,7 +20,7 @@
     "next": "^16.2.11",
     "next-auth": "^5.0.0-beta.32",
     "postcss": "8.5.21",
-    "react": "19.2.7",
+    "react": "19.2.8",
     "react-dom": "19.2.8",
     "tailwindcss": "4.3.3",
     "typescript": "7.0.2",
